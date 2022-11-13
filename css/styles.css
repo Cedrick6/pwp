@@ -54,9 +54,14 @@ h3 {
 }
 
 a {
+  font-family: 'Montserrat', sans-serif;
   color: #11999E;
   margin: auto 20px auto 20px;
   text-decoration: none
+}
+
+a:hover {
+  color: #EAF6F6;
 }
 
 p {
@@ -137,7 +142,7 @@ body {
   -webkit-border-radius: 28;
   -moz-border-radius: 28;
   border-radius: 8px;
-  font-family: Arial;
+  font-family: 'Merriweather', serif;
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
